@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WojciechSzade
-- Student of 2nd year Computer Science on Warsaw University of Science (Informatyka stosowana, Politechnika Warszawska)
+- Student of 2nd year Computer Science on Warsaw University of Technology (Informatyka stosowana, Politechnika Warszawska)
 - 📫 Reach me on my e-mail: wojciech.szade@gmail.com  
 - Currently working on https://github.com/WojciechSzade/Secret-Santa-Site. Looking for help with the frontend part! Contact me if you're interested!
 - I'm looking for an internship in Python, online or in Warsaw😁
