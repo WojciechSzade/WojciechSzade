@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @WojciechSzade
-- Student of 2nd year Computer Science on Warsaw University of Technology (Informatyka stosowana, Politechnika Warszawska)
+- Student of 3rd year Computer Science on Warsaw University of Technology (Informatyka stosowana, Politechnika Warszawska)
 - 📫 Reach me on my e-mail: wojciech.szade@gmail.com  
-- Open to work on open source Python projects  
+- Open to work on open source Python projects
+- Currently working as a Fullstack Developer in IT center of WUT developing USOS - University System of Managing Students. Using both Django, and PHP with Smarty, JQuery
